@@ -5,13 +5,13 @@
   @apply font-poppins absolute top-1/2 sm:left-1/2 sm:-translate-x-1/2 -translate-y-1/2 rounded-lg max-w-[500px] grid gap-2 m-5 sm:m-0;
 }
 .card h1 {
-  @apply text-2xl;
+  @apply font-semibold text-2xl;
 }
 .card h2 {
-  @apply text-8xl font-cb;
+  @apply font-bold text-8xl font-cb;
 }
 .card h3 {
-  @apply text-2xl;
+  @apply font-semibold text-2xl;
 }
 .card a {
   @apply hover:underline hover:text-sky-400;
