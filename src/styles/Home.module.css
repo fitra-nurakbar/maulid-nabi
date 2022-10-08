@@ -8,10 +8,10 @@
   @apply font-semibold font-abel text-2xl;
 }
 .card h2 {
-  @apply font-semibold text-8xl font-cb;
+  @apply text-8xl font-cb;
 }
 .card h3 {
-  @apply font-semibold font-abel text-2xl;
+  @apply font-bold font-abel text-4xl;
 }
 .card a {
   @apply hover:underline hover:text-sky-400;
